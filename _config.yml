@@ -1,0 +1,5 @@
+title: My GitHub Site
+description: A cool personal page
+remote_theme: pages-themes/minimal
+plugins:
+  - jekyll-remote-theme
