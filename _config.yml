@@ -1,5 +1,5 @@
-title: My GitHub Site
-description: A cool personal page
-remote_theme: pages-themes/minimal
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
+title: My Documentation Site
+search_enabled: true
