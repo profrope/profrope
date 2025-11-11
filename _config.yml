@@ -1,19 +1,9 @@
-title: My Website
-description: Portfolio and projects of Your Name
-remote_theme: just-the-docs/Slate
+title: My GitHub Site
+
+description: A cool personal page
+
+remote_theme: pages-themes/minimal
 
 plugins:
-  - jekyll-remote-theme
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "About Me"
-    url: /about
-  - title: "Projects"
-    url: /projects
-  - title: "Contact"
-    url: /contact
-
-color_scheme: light
-search_enabled: true
+  - jekyll-remote-theme
