@@ -1,11 +1,14 @@
-title	nav_order
-Home
-1
-👋 Welcome
-Hi! I’m Your Name, a researcher and designer passionate about mapping and cities.
+---
+title: Home
+nav_order: 1
+---
 
-Use the links on the left to explore:
+# 👋 Welcome
 
-About Me
-Projects
-Contact
+Hi! I’m **Your Name**, a [short description — e.g. researcher, map designer, etc.].
+
+Use the links on the left (or top, depending on theme) to explore:
+
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Contact](contact.md)
