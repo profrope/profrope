@@ -1,9 +1,13 @@
+---
+title: About Me
+nav_order: 2
+---
 
-title	nav_order
-About Me	2
-About Me
+# About Me
 
 I’m a geographer and educator passionate about mapping, cities, and design.
-* Current role: Professor of Urban Spatial Design in Japan
-* Interests: Web mapping, spatial analysis, and creative geography
-Learn more on my Projects page
+
+- **Current role:** Professor of Urban Spatial Design in Japan  
+- **Interests:** Web mapping, spatial analysis, and creative geography  
+
+Learn more on my [Projects](projects.md) page.
