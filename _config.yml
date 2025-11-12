@@ -2,9 +2,14 @@ title: My Website
 description: Portfolio and projects of Your Name
 remote_theme: just-the-docs/just-the-docs
 
+# Enable GitHub Pages plugin
 plugins:
   - jekyll-remote-theme
 
+# Set navigation order
+nav_order: 1
+
+# Add your navigation structure (optional override)
 nav:
   - title: "Home"
     url: /
@@ -15,5 +20,7 @@ nav:
   - title: "Contact"
     url: /contact
 
+# Optional extras
 color_scheme: light
+logo: /assets/logo.png
 search_enabled: true
