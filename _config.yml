@@ -1,10 +1,11 @@
 title: My Website
 description: Portfolio and projects of Your Name
-remote_theme: just-the-docs/just-the-docs
+remote_theme: pages-themes/cayman
 
 # Enable GitHub Pages plugin
 plugins:
   - jekyll-remote-theme
+  
 
 # Set navigation order
 nav_order: 1
